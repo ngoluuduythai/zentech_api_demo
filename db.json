@@ -1,12 +1,9 @@
 {
-  "sign_up": [{
-    "id": 1,
-    "success": "ok"
-  },
-  { "id": 2, "success": "ok" },
-  { "id": 3, "success": "ok" }
-
-],
+  "sign_up": [
+    { "id": 1, "success": "ok" },
+    { "id": 2, "success": "ok" },
+    { "id": 3, "success": "ok" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
